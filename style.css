@@ -1,0 +1,19 @@
+.counter {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-size: 250px;
+}
+
+   .counter button{
+       width: 250px;
+       height: 250px;
+        font-size: 250px;
+
+        
+        align-items: center;
+   }
+
+
+   
+    
